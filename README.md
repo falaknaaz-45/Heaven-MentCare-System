@@ -8,5 +8,4 @@ Self-Help Resources – Access mental health articles, exercises, and guides.
 Community Support – Anonymous forums and peer discussions.
 Chat & Support – Live chat and AI-powered assistance.
 User Flow & Validation – Designed for seamless navigation and UX
-Mobile App Executable File: Figma Link
-Website Executable File: Figma Link
+
